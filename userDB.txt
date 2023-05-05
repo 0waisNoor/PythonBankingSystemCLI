@@ -1,0 +1,5 @@
+10000,John Cena,savings,300,12/08/1970,House No.5, Game Area, Lilongwe, Malawi,
+10002,Roman Reigns,current,140,28/01/1985,House 909, Area 2, Lilongwe, Malawi,
+10003,Dean Ambrose,savings,100,09/09/2000,House 06, Victoria Avenue, Blantryre, Malawi,
+10004,Bray Wyatt,current,1090,29/03/2001,House 89, Area 4, Lilongwe, Malawi,
+10005,Mohammad Owais Noor,current,100,28/08/2003,House 4, Behind Chipikustores, Mzuzu, Malawi,
